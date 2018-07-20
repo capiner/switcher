@@ -1,2 +1,1 @@
-# switcher
-Capiner Switcher
+# Capiner Switcher
